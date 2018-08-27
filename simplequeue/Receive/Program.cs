@@ -12,7 +12,7 @@ class Receive
         using(var channel = connection.CreateModel())
         {
             channel.QueueDeclare(queue: "hello",
-                                 durable: false,
+                                 durable: true,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
