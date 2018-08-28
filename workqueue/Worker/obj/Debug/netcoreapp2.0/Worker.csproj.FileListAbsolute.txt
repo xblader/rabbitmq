@@ -1,0 +1,11 @@
+C:\Users\xblad\rabbitmq\workqueue\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+C:\Users\xblad\rabbitmq\workqueue\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+C:\Users\xblad\rabbitmq\workqueue\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+C:\Users\xblad\rabbitmq\workqueue\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+C:\Users\xblad\rabbitmq\workqueue\Worker\bin\Debug\netcoreapp2.0\Worker.pdb
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.csprojAssemblyReference.cache
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.dll
+C:\Users\xblad\rabbitmq\workqueue\Worker\obj\Debug\netcoreapp2.0\Worker.pdb

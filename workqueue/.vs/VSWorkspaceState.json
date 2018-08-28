@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewTask",
+    "\\NewTask\\bin\\Debug",
+    "\\NewTask\\bin\\Debug\\netcoreapp2.0",
+    "\\Worker"
+  ],
+  "SelectedNode": "\\Worker\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
