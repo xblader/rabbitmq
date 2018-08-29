@@ -1,0 +1,11 @@
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.csprojAssemblyReference.cache
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.AssemblyInfo.cs
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.deps.json
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.runtimeconfig.json
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.runtimeconfig.dev.json
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.dll
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\bin\Debug\netcoreapp2.0\ReceiveLogs.pdb
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.dll
+C:\Users\xblad\rabbitmq\publisher-subscribe\ReceiveLogs\obj\Debug\netcoreapp2.0\ReceiveLogs.pdb
