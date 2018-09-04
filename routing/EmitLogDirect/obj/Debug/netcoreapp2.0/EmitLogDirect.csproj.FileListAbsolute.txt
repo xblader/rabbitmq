@@ -1,0 +1,11 @@
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.csprojAssemblyReference.cache
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.AssemblyInfo.cs
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\bin\Debug\netcoreapp2.0\EmitLogDirect.deps.json
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\bin\Debug\netcoreapp2.0\EmitLogDirect.runtimeconfig.json
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\bin\Debug\netcoreapp2.0\EmitLogDirect.runtimeconfig.dev.json
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\bin\Debug\netcoreapp2.0\EmitLogDirect.dll
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\bin\Debug\netcoreapp2.0\EmitLogDirect.pdb
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.dll
+C:\Users\xblad\rabbitmq\routing\EmitLogDirect\obj\Debug\netcoreapp2.0\EmitLogDirect.pdb

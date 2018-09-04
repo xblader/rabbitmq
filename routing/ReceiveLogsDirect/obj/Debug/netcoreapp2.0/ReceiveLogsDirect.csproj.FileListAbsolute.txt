@@ -1,0 +1,11 @@
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.csprojAssemblyReference.cache
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.AssemblyInfoInputs.cache
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.AssemblyInfo.cs
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\bin\Debug\netcoreapp2.0\ReceiveLogsDirect.deps.json
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\bin\Debug\netcoreapp2.0\ReceiveLogsDirect.runtimeconfig.json
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\bin\Debug\netcoreapp2.0\ReceiveLogsDirect.runtimeconfig.dev.json
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\bin\Debug\netcoreapp2.0\ReceiveLogsDirect.dll
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\bin\Debug\netcoreapp2.0\ReceiveLogsDirect.pdb
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.dll
+C:\Users\xblad\rabbitmq\routing\ReceiveLogsDirect\obj\Debug\netcoreapp2.0\ReceiveLogsDirect.pdb
